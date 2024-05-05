@@ -23,6 +23,7 @@
 * [«Cat Energy» — магазин функционального питание для котов](https://nemtsev-k.github.io/cat-energy/) | [Репозиторий](https://github.com/nemtsev-k/cat-energy)
 * [«Мишка» — магазин милых вещиц ручной работы](https://nemtsev-k.github.io/mishka/) | [Репозиторий](https://github.com/nemtsev-k/mishka)
 * [«Седона» — поиск гостиниц в небольшом городке](https://nemtsev-k.github.io/sedona/) | [Репозиторий](https://github.com/nemtsev-k/sedona)
+* [«Барбершоп Бородинский» — сайт мужской парикмахерской](https://nemtsev-k.github.io/barbershop/) | [Репозиторий](https://github.com/nemtsev-k/barbershop)
 
 ### HTML, Less, JavaScript, Gulp
 
