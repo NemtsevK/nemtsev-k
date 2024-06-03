@@ -41,7 +41,8 @@
 
 ### React, Redux, Typescript
 
-* «Шесть городов» — сервис для путешественников | [Репозиторий](https://github.com/nemtsev-k/six-cities)
+* [«Шесть городов» — сервис для путешественников](https://nemtsev-k.github.io/six-cities/) | [Репозиторий](https://github.com/nemtsev-k/six-cities)
+* [«Угадай мелодию» — музыкальная онлайн-игра со встроенным аудиоплеером](https://nemtsev-k.github.io/guess-melody/) | [Репозиторий](https://github.com/nemtsev-k/guess-melody)
 
 ### PHP, MariaDB
 
