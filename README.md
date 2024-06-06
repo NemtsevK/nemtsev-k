@@ -8,7 +8,6 @@
 ## Проекты
 
 * [Энциклопедия о многогранниках](https://nemtsev-k.github.io/polyhedrons/) | [Репозиторий](https://github.com/nemtsev-k/polyhedrons)
-* [Полезная информация о программировании](https://github.com/nemtsev-k/theory)
 
 ## Тренировочные работы
 
@@ -33,19 +32,23 @@
 ### JavaScript, ES Modules, Vite
 
 * [«Кекстаграм» — сервис просмотра изображений](https://nemtsev-k.github.io/kekstagram/) | [Репозиторий](https://github.com/nemtsev-k/kekstagram)
-* «Кексобукинг» — сервис размещения объявлений о сдаче в аренду недвижимости | [Репозиторий](https://github.com/nemtsev-k/keksobooking)
+* [«Кексобукинг» — сервис размещения объявлений о сдаче в аренду недвижимости](https://nemtsev-k.github.io/keksobooking/) | [Репозиторий](https://github.com/nemtsev-k/keksobooking)
+* [«Код и Магия» — демо-страница игры-платформера](https://nemtsev-k.github.io/code-and-magick/) | [Репозиторий](https://github.com/nemtsev-k/code-and-magick)
 
-### JavaScript, ООП, SPA, Vite
+
+### JavaScript, ООП, SPA, Vite / Webpack
 
 * [«Большое путешествие» — сервис для путешественников](https://nemtsev-k.github.io/big-trip/) | [Репозиторий](https://github.com/nemtsev-k/big-trip)
+* [«Менеджер задач» – веб-приложение для организации и контроля выполнения задач.](https://nemtsev-k.github.io/taskmanager/) | [Репозиторий](https://github.com/nemtsev-k/taskmanager)
 
 ### React, Redux, Typescript
 
 * [«Шесть городов» — сервис для путешественников](https://nemtsev-k.github.io/six-cities/) | [Репозиторий](https://github.com/nemtsev-k/six-cities)
+* [«Что посмотреть» — онлайн кинотеатр нового поколения.](https://nemtsev-k.github.io/what-to-watch/) | [Репозиторий](https://github.com/nemtsev-k/what-to-watch)
 * [«Угадай мелодию» — музыкальная онлайн-игра со встроенным аудиоплеером](https://nemtsev-k.github.io/guess-melody/) | [Репозиторий](https://github.com/nemtsev-k/guess-melody)
 
-### PHP, MariaDB
+### PHP, MySQL
 
-* «YetiCave» — интернет-аукцион | [Репозиторий](https://github.com/nemtsev-k/yeticave)
+* [«YetiCave» — интернет-аукцион](http://nemtsevk.ru/yeticave/) | [Репозиторий](https://github.com/nemtsev-k/yeticave)
 * «Readme» — сервис для публикации сообщений в своём блоге | [Репозиторий](https://github.com/nemtsev-k/readme)
 * «Дела в порядке» — веб-приложение для удобного ведения списка дел | [Репозиторий](https://github.com/nemtsev-k/doingsdone)
