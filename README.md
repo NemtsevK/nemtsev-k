@@ -5,17 +5,14 @@
 * Личный сайт: http://nemtsevk.ru/
 * Почта для связи: [nemtsevk@hotmail.com](mailto:nemtsevk@hotmail.com)
 
-## Проекты
+## Личные проекты
 
 * [Энциклопедия о многогранниках](https://nemtsev-k.github.io/polyhedrons/) | [Репозиторий](https://github.com/nemtsev-k/polyhedrons)
-
-## Тренировочные работы
 
 ### HTML, CSS
 
 * [«Девайс» — магазин гаджетов](https://nemtsev-k.github.io/device/) | [Репозиторий](https://github.com/nemtsev-k/device)
 * [«Глейси» — магазин мороженого](https://nemtsev-k.github.io/gllacy/) | [Репозиторий](https://github.com/nemtsev-k/gllacy)
-* [«Техномарт» — магазин строительных материалов](https://nemtsev-k.github.io/technomart/) | [Репозиторий](https://github.com/nemtsev-k/technomart)
 
 ### HTML, Sass, JavaScript, Gulp
 
@@ -23,6 +20,7 @@
 * [«Мишка» — магазин милых вещиц ручной работы](https://nemtsev-k.github.io/mishka/) | [Репозиторий](https://github.com/nemtsev-k/mishka)
 * [«Седона» — поиск гостиниц в небольшом городке](https://nemtsev-k.github.io/sedona/) | [Репозиторий](https://github.com/nemtsev-k/sedona)
 * [«Барбершоп Бородинский» — сайт мужской парикмахерской](https://nemtsev-k.github.io/barbershop/) | [Репозиторий](https://github.com/nemtsev-k/barbershop)
+* [«Техномарт» — магазин строительных материалов](https://nemtsev-k.github.io/technomart/) | [Репозиторий](https://github.com/nemtsev-k/technomart)
 
 ### HTML, Less, JavaScript, Gulp
 
